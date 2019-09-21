@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+
+   clicked() {
+    alert("nice to meet you");
+    
+  }
 }

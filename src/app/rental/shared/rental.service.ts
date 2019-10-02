@@ -2,7 +2,10 @@ import {Injectable} from '@angular/core';
 import {Observable} from 'rxjs';
 
 import { Rental } from './rental.model';
+<<<<<<< HEAD
+=======
 <
+>>>>>>> master
 
 @Injectable()
 
